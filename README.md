@@ -1,4 +1,4 @@
-# Face-Mask-Detector
+# Real-time-Face-Mask-Detector
 
 It is a face mask detector using Tensorflow and Keras library for training.
 OpenCv is used for real-time face mask detection.
