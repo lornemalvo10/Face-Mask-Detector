@@ -5,6 +5,6 @@ OpenCv is used for real-time face mask detection.
 
 Classes - 'Mask' and 'No Mask'
 
-It is computer vision binary classification problem.
+It is a computer vision binary classification problem.
 
 Download this repository and run the cv2 file.
